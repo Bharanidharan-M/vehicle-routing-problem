@@ -11,8 +11,6 @@ Visualization: Outputs optimized routes in a graphical format using Matplotlib.
 Installation
 Ensure you have Python installed. Then, install the required dependencies using:
 
-bash
-Copy code
 pip install matplotlib deap
 How It Works
 Problem Initialization:
